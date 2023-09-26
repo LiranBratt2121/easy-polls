@@ -11,7 +11,7 @@ class Question(models.Model):
         return self.pub_date >= timezone.now()   
     
     datetime.timedelta(days=1)
-    
+        
     def __str__(self):
         return "text" + self.question_text
 
