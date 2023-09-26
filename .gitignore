@@ -1,1 +1,5 @@
 polls/__pycache__/admin.cpython-310.pyc
+db.sqlite3
+polls/__pycache__/admin.cpython-310.pyc
+polls/__pycache__/urls.cpython-310.pyc
+polls/__pycache__/views.cpython-310.pyc
